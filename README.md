@@ -46,8 +46,6 @@ Welcome to my GitHub profile!✨ I'm Adarsh Lakhanpal ✨, a passionate and vers
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Twitter: [@YourTwitterHandle](link-to-twitter)
 - Email: **alakhanpal2003@gmail.com**
 
 ## Let's Collaborate!
