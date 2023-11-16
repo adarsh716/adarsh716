@@ -31,13 +31,14 @@ Welcome to my GitHub profile!✨ I'm Adarsh Lakhanpal ✨, a passionate and vers
   - MERN Stack (MongoDB, Express.js, React, Node.js)
   - HTML5
   - CSS3
-  - JavaScript (ES6+)
+  - JavaScript
   - TailwindCSS
 
 - **Database:**
   - MongoDB
   - MySQL
-  - [Add any other databases you are familiar with]
+  - SQLite
+  - Oracle
 
 - **Other Tech Stack:**
   - Django (Python web framework)
