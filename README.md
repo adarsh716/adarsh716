@@ -29,6 +29,7 @@ Welcome to my GitHub profile!✨ I'm Adarsh Lakhanpal ✨, a passionate and vers
 
 - **Web Development:**
   - MERN Stack (MongoDB, Express.js, React, Node.js)
+  - NextJS
   - HTML5
   - CSS3
   - JavaScript
