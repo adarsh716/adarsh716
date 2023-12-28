@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile!✨ I'm Adarsh Lakhanpal ✨, a passionate and versatile developer with a love for solving problems and building cool stuff. Here's a glimpse of what I bring to the table:
 
+https://camo.githubusercontent.com/067ebd1ac82eaf138bb9d31fc6f58708cae554d55899125206535836cca6235e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61726a756e3132337368266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
 ## Skills and Expertise
 
 - **Programming Languages:**
