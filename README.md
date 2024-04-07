@@ -23,7 +23,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.alakhanpal2003@gmail.com">
+  <a href="mailto:alakhanpal2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/adarsh-lakhanpal-649aba23b/" target="_blank">
