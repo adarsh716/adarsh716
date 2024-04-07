@@ -18,8 +18,6 @@
 
 👯 I’m looking to collaborate on Real World And Open Source Projects
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
